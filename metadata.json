@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Termociclador y Entrenamiento PCR",
+  "description": "Simulador profesional de termociclador de laboratorio y plataforma de entrenamiento para diseño, validación y ejecución de protocolos PCR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
